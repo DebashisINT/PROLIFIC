@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180176223201",
+    "project_id": "breeze-prolific",
+    "storage_bucket": "breeze-prolific.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180176223201:android:00e326e6c7f9b6a2fbb0a0",
+        "android_client_info": {
+          "package_name": "com.breezefieldsalesprolific"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9qIhlof9CVMaWW4UFn6Z0U6-NqAA8TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
